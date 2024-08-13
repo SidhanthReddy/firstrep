@@ -1,0 +1,12 @@
+a{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.acon{
+    margin-left: 46%;
+    display: inline;
+    width: 500px;
+}
